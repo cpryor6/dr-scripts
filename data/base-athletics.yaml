@@ -72,3 +72,7 @@ practice_options:
   coriks_wall:
       id: 8905
       target: wall
+  # Cliff in Mistwood Forest (333 - ?, Orc Bandits abound, hope you can stay hidden!)
+  mistwood_cliff:
+      id: 8649
+      target: cliff
